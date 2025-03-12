@@ -1,17 +1,15 @@
 // =========================================================
-// * Volt React Dashboard
+// * Aplicacion-óptica Dashboard
 // =========================================================
 
-// * Product Page: https://themesberg.com/product/dashboard/volt-react
-// * Copyright 2021 Themesberg (https://www.themesberg.com)
-// * Official Repository: https://github.com/themesberg/volt-react-dashboard
-// * License: MIT License (https://themesberg.com/licensing)
+// * Product Page: Sebastián Asunción y Francisco Triviño
+// * Copyright 2025 DevSam y MINKA - Proyectos Colaborativos (https://www.devsam.es)
+// * Official Repository: https://github.com/DEVSAM1966/aplicacion-optica
+// * License: MIT License 
 
-// * Designed and coded by https://themesberg.com
+// * Designed and coded by https://devsam.es
 
 // =========================================================
-
-// * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. Please contact us to request a removal.
 
 import React from 'react';
 import ReactDOM from 'react-dom';
